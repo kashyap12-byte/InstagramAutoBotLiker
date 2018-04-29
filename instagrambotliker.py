@@ -21,7 +21,7 @@ for y in range (0,int(count)):
     pyautogui.click(923,574,clicks=1)
     time.sleep(.600)
 print("Task Completed")
-#"Enter" key to exit program, used in pyinstaller module
+#raw_input() #"Enter" key to exit program, used in pyinstaller module
             #Its not an error, it holds console output window
 
 #Advantages:
