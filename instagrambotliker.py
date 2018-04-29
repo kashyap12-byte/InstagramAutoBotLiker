@@ -22,7 +22,7 @@ for y in range (0,int(count)):
     time.sleep(.600)
 print("Task Completed")
 #raw_input() #"Enter" key to exit program, used in pyinstaller module
-            #Its not an error, it holds console output window
+#Its not an error, it holds console output window
 
 #Advantages:
 #1.Automate liking users post with mouse clicks
